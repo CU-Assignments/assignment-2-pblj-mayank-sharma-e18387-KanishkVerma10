@@ -1,0 +1,69 @@
+##Submitted by - Kanishk Verma(22BCS12395)
+
+##PROBLEM 1
+
+###Sample Input :
+Product ID: 1001
+Name: Laptop
+Price: 80000
+
+###Sample Output :
+Product Details:
+ID: 101
+Name: Laptop
+Price: 80000.0
+
+
+##PROBLEM 2
+
+###Sample Output:
+
+Library Management System
+
+Fiction Book Details:
+Title: Harry Potter
+Author: J.K Rowling
+Price: 500.0
+---------------------------
+Non-Fiction Book Details:
+Title: The Art of War
+Author: Sun Tzu
+Price: 650.0
+---------------------------
+
+##PROBLEM 3
+###Sample Output:
+Student Information System 
+
+Menu:
+1. Add Student
+2. Add Teacher
+3. Display All Students
+4. Display All Teachers
+5. Search Student by Roll Number
+6. Search Teacher by Name
+7. Update Student Details
+8. Update Teacher Details
+9. Remove Student
+10. Remove Teacher
+0. Exit
+Enter your choice: 1
+
+Enter Student Name: Kanishk Verma
+Enter Student Age: 22
+Enter Student Roll Number: 12395
+Student added successfully!
+
+Menu:
+1. Add Student
+2. Add Teacher
+...
+Enter your choice: 2
+
+Enter Teacher Name: Mr. Mayank
+Enter Teacher Age: 28
+Enter Teacher Subject: Java
+Teacher added successfully!
+
+... (and so on for display, search, update, removal)
+
